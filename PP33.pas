@@ -1,2 +1,2 @@
-﻿a:=b;
-writeln('A+B=',a+b);
+﻿a:=c;
+writeln('A-C=',a-c);
