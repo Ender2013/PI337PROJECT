@@ -1,2 +1,2 @@
-﻿writeln('Hello');
-c:='Welcome';
+﻿writeln('Bye');
+c:='Goodbye';
