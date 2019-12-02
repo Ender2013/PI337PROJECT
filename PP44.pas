@@ -1,0 +1,2 @@
+﻿writeln('Hello');
+c:='Welcome';
